@@ -12,7 +12,10 @@ image/document analysis and audio transcription.
 - 15+ agent instances across construction, logistics, auto workshops and more
 - Deterministic code paths so agents never claim actions they didn't complete
 - Idempotent scheduled jobs, human escalation, token-protected REST API
-
+## 🚀 Open source
+**[patagon-inventory-mcp](https://github.com/Sr-Stark08/patagon-inventory-mcp)** — MCP server for conversational
+inventory management. Idempotent stock movements, tools/resources/prompts, 13 tests,
+Docker and CI on Node 22/24.
 ## 🛠️ Stack
 Node.js · Anthropic Claude API · OpenAI Whisper · MCP · Claude Code ·
 WhatsApp (Baileys) · Google Drive API · REST APIs · Railway · Git
